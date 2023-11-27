@@ -1,0 +1,2 @@
+- go test -v -bench=. -benchmem
+- go test -v -gcflags='-l' -bench=. -benchmem
